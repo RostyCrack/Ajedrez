@@ -1,0 +1,3 @@
+/Users/cristianrost/CLionProjects/Ajedrez/cmake-build-debug/CMakeFiles/Ajedrez.dir
+/Users/cristianrost/CLionProjects/Ajedrez/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/cristianrost/CLionProjects/Ajedrez/cmake-build-debug/CMakeFiles/rebuild_cache.dir

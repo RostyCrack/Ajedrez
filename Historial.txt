@@ -1,0 +1,17 @@
+rosty                     2
+rosty                     2
+rosty                     2
+rosty                     2
+rosty                     2
+rosty                     2
+rosty                     2
+rosty                     5
+rosty                     7
+rosty                     9
+rosty                     7
+rosty                     8
+rosty                     2
+C                     7
+dd                     9
+c                     53
+d                     32
